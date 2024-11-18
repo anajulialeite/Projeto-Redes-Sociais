@@ -6,3 +6,7 @@ Projeto com Redes Sociais, referente ao Módulo 4 - Capítulo 23 do curso de HTM
 
 Este é o link do meu projeto:
 https://anajulialeite.github.io/Projeto-Redes-Sociais/
+
+# License
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
